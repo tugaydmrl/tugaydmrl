@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tugay Demirel</h1>
 <h3 align="center">I'm interested in JS. <br> <br> I also like arrow functions.</h3>
 
-- 👨‍💻 All of my projects are available at [tugaydemirel.com](tugaydemirel.com)
+- 👨‍💻 All of my projects are available at [tugaydemirel.com](https://www.tugaydemirel.com)
 
 - 📫 How to reach me: **info@tugaydemirel.com**
 
