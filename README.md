@@ -18,7 +18,7 @@
 Knowledgeable Front End Developer adept at creating successful websites that meet customer needs. 
 
 I mostly use HTML, CSS, JavaScript, and JS frameworks&libraries (ReactJs, ReactNative, Redux) in my projects. <br>
-It is among my responsibilities to create SEO-compatible, scalable, high-performance, and manageable projects.  
+It is among my responsibilities to create SEO-compatible, scalable, high-performance and manageable projects.  
   
 <br/>  
 
