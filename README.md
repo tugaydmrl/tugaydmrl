@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
   
-### whoami
+## whoami
 Knowledgeable Front End Developer adept at creating successful websites that meet customer needs. 
 
 I mostly use HTML, CSS, JavaScript, and JS libraries (ReactJs, ReactNative, Redux) in my projects. <br>
