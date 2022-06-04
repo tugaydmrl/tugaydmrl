@@ -29,7 +29,7 @@ It is among my responsibilities to create SEO-compatible, scalable, high-perform
 - 💻 All of my projects are available at [tugaydemirel.com](https://www.tugaydemirel.com)  
   
 
-- ✉️ Contact me via **info@tugaydemirel.com**  
+- ✉️ Contact me via **contact@tugaydemirel.com**  
   
 
 <br/>  
